@@ -22,7 +22,7 @@
 
 - `uv venv --python 3.12`
 - Activate the environment
-  - `~\.env\Scripts\Activate`
+  - `~/.venv/Scripts/activate.ps1`
 - Install packages
   - `uv pip install jupyterlab ipykernel pandas scikit-learn matplotlib seaborn openpyxl ruff notebook`
 
