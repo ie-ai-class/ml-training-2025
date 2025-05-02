@@ -45,7 +45,7 @@
 import pandas as pd
 
 print("Hello World")
-print(print(pd.__version__))
+print(pd.__version__)
 ```
 
 - Set "Workspace Environment"
