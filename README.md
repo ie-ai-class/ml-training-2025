@@ -1,6 +1,7 @@
 # Information
 
 - [Syllabus](./T00_information/ML%20Training%202568.pdf)
+- [Youtube VDOs](https://www.youtube.com/playlist?list=PLNGLpHQhvGrvaXmoHvukU6cRa42xTvFH3)
 
 # Python Installation
 
