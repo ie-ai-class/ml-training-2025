@@ -2,4 +2,4 @@ remote_theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [ML Training 2025]
-description: [ML Training 2025]
+description: [Machine Learning and Deep Learning with Scikit-Learn and PyTorch]
