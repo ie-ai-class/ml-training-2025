@@ -10,4 +10,5 @@
 
 # Resources
 
-- [Code and Lectures](https://drive.google.com/drive/folders/1SYWf3gLSUd3B5FkIy9TKAG4_MtKKHq82?usp=sharing)
+- [Diagram](https://link.excalidraw.com/l/9PltHIQHZMD/2pUGFn7Kq9g)
+- [Code](https://drive.google.com/drive/folders/1SYWf3gLSUd3B5FkIy9TKAG4_MtKKHq82?usp=sharing)
