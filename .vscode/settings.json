@@ -1,0 +1,14 @@
+{
+  "draw.folder.structure.exclude": [
+    "**/node_modules",
+    "**/*.git",
+    "**/dist",
+    "**/*.next",
+    "**/out",
+    "**/.vscode",
+    "**/.venv",
+    "**/__pycache__",
+    "**/project.egg-info"
+  ],
+  "draw.folder.structure.style": "EmojiFun"
+}
