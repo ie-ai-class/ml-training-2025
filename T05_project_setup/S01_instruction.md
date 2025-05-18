@@ -1,4 +1,4 @@
-# Install `git`
+# Installing `git`
 
 - Download and install from https://git-scm.com/
 - Set your username and email
@@ -10,7 +10,7 @@ git config --global user.email "email@example.com"
 
 - Check by `git config --list`
 
-# Create a new project
+# Creating a new project
 
 - Create a new folder (e.g. `project`)
   - `mkdir project`
@@ -20,7 +20,7 @@ git config --global user.email "email@example.com"
 
 > When you create a project using `uv`, your dependency versions are automatically locked and fixed in the `uv.lock` file. This ensures that every environment created from your project will use the exact same package versions, leading to consistent and reproducible results across different machines and collaborators.
 
-# Organize a new project
+# Organizing a new project
 
 - Delete `main.py`
 - Create `src` and `run` folders and add source codes.
@@ -47,7 +47,7 @@ git config --global user.email "email@example.com"
 - Install the project in [editable mode](https://setuptools.pypa.io/en/latest/userguide/development_mode.html).
   - `uv pip install -e .`
 
-# Using Github
+# Create a new Github repository
 
 - Create a new git repository in `GitHub`.
   - Copy a git url `https://...`
@@ -63,13 +63,19 @@ git config --global user.email "email@example.com"
 - Push your changes
   - `git push --set-upstream origin master`
 
-## Other git commands
+### Other git commands
 
-- Clone an existing repository
-  - `git clone https://...`
 - Fetch and merge changes from the remote
   - `git pull`
 - Show the status of files in the working directory
   - `git status`
 - View commit
   - `git log`
+
+## Reinitializing an existing GitHub repository
+
+- Clone an existing repository
+  - `git clone https://...`
+- Installing packages
+  - `uv sync`
+  - `uv pip install -e .`
