@@ -1,11 +1,21 @@
-Set your username: git config --global user.name "FIRST_NAME LAST_NAME"
-Set your email address: git config --global user.email "MY_NAME@example.com"
+# Install `git`
+
+- Download and install from https://git-scm.com/
+- Set your username and email
+
+```bash
+git config --global user.name "firstname lastname";
+git config --global user.email "email@example.com"
+```
+
+# Create a project structure
 
 - `uv init --python 3.12`
-- Delete `main.py`
-- Create `src` folder
 - `uv add jupyterlab ipykernel pandas scikit-learn matplotlib seaborn openpyxl ruff notebook`
-- Create `__init__.py` files as follows
+- Delete `main.py`
+- Create `src` and `run` folders with the following files
+  - `__init__.py` is a blank file.
+- `uv pip install -e .`
 
 ```
 📁 src
