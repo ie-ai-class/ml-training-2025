@@ -8,6 +8,8 @@ git config --global user.name "firstname lastname";
 git config --global user.email "email@example.com"
 ```
 
+- Check by `git config --list`
+
 # Create a project structure
 
 - `uv init --python 3.12`
