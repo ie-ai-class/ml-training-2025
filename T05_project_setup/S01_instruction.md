@@ -34,6 +34,7 @@ git config --global user.email "email@example.com"
         📄 __init__.py
         📄 v1.py
     📁 run
+        📄 data.xlsx
         📄 S04_workflow_real_fit.ipynb
         📄 S05_workflow_real_analyze.ipynb
 📄 .gitignore
