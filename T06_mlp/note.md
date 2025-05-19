@@ -1,4 +1,4 @@
-uv add torch torchviz
+# Setup
 
-choco install graphviz
-https://graphviz.org/download/
+- `uv add torch torchviz`
+- `choco install graphviz` or https://graphviz.org/download/
