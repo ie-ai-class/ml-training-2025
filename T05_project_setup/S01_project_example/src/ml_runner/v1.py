@@ -98,7 +98,7 @@ class MyEval:
                 "MSE Test": mse_test,
                 "MAPE Train (No Val)": mape_train,
                 "MAPE Test": mape_test,
-                "R2 Train": r2_train,
+                "R2 Train (No Val)": r2_train,
                 "R2 Test": r2_test,
             }
             data_arr.append(data)
