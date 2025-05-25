@@ -15,11 +15,13 @@
 - [Project Setup](https://github.com/ie-ai-class/ml-training-2025/blob/main/T05_project_setup/S01_instruction.md)
 
 # Pytorch
+
 ## Setup
+
 - `git clone https://github.com/warisa-cmu/ml-training-2025-pytorch`
 - `uv sync`
 - `uv pip install -e .`
-- To use `torchviz` install https://graphviz.org/download/
+- To use `torchviz` install [graphviz](https://graphviz.org/download/).
 
 ## Resources
 
