@@ -23,9 +23,16 @@
 - `uv pip install -e .`
 - To use `torchviz` install [graphviz](https://graphviz.org/download/).
 
-## Resources
+## Resources (MLP)
 
 - [Introduction to neural network (class lecture)](https://drive.google.com/file/d/1nbksolyPUwbs9Ou6q1wuN459vCF0RVSv/view?usp=sharing)
 - [Back propagation explainer](https://xnought.github.io/backprop-explainer/)
 - [Visual guide to neural network (Part 1)](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks)
 - [Visual guide to neural network (Part 2)](https://jalammar.github.io/feedforward-neural-networks-visual-interactive/)
+
+# Resource (CNN)
+
+- [Introduction to convolutional neural netwrok (class lecture)](https://drive.google.com/file/d/196gPZy8YaD3g3uONXzREpYqQXCIdO5_0/view?usp=sharing)
+- [Convolution Animation](https://github.com/vdumoulin/conv_arithmetic)
+- [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+- [SqueezeNet Paper](https://arxiv.org/abs/1602.07360)
