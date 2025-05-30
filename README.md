@@ -33,6 +33,7 @@
 # Resource (CNN)
 
 - [Introduction to convolutional neural netwrok (class lecture)](https://drive.google.com/file/d/196gPZy8YaD3g3uONXzREpYqQXCIdO5_0/view?usp=sharing)
-- [Convolution Animation](https://github.com/vdumoulin/conv_arithmetic)
-- [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
-- [SqueezeNet Paper](https://arxiv.org/abs/1602.07360)
+- [Classification metrices (class lecture)](https://drive.google.com/file/d/1Zu07EIzHpgKRZGct3wmeNW2K__NprmuO/view?usp=sharing)
+- [Convolution animation](https://github.com/vdumoulin/conv_arithmetic)
+- [CNN explainer](https://poloclub.github.io/cnn-explainer/)
+- [SqueezeNet paper](https://arxiv.org/abs/1602.07360)
