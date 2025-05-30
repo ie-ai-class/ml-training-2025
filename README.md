@@ -30,7 +30,7 @@
 - [Visual guide to neural network (Part 1)](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks)
 - [Visual guide to neural network (Part 2)](https://jalammar.github.io/feedforward-neural-networks-visual-interactive/)
 
-# Resource (CNN)
+## Resource (CNN)
 
 - [Introduction to convolutional neural netwrok (class lecture)](https://drive.google.com/file/d/196gPZy8YaD3g3uONXzREpYqQXCIdO5_0/view?usp=sharing)
 - [Classification metrices (class lecture)](https://drive.google.com/file/d/1Zu07EIzHpgKRZGct3wmeNW2K__NprmuO/view?usp=sharing)
