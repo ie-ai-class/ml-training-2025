@@ -1,6 +1,7 @@
 # Information
 
 - [Syllabus](./T00_information/ML%20Training%202568.pdf)
+    - Covered only up to CNN in actual training due to limited time.
 - [Youtube VDOs](https://www.youtube.com/playlist?list=PLNGLpHQhvGrvaXmoHvukU6cRa42xTvFH3)
 
 # Python Installation
