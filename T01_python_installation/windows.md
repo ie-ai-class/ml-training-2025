@@ -24,7 +24,7 @@
 - Activate the environment
   - `~/.venv/Scripts/activate.ps1`
 - Install packages
-  - `uv pip install jupyterlab ipykernel pandas scikit-learn matplotlib seaborn openpyxl ruff notebook`
+  - `uv pip install jupyterlab ipykernel pandas scikit-learn matplotlib seaborn openpyxl ruff notebook xlsxwriter`
 
 # VSCode
 
